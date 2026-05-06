@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/lamma-el-nas-tesket/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get License For Lamma El Nas Tesket](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
